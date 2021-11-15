@@ -1,3 +1,7 @@
+/**
+@author Colin McQuinn
+@version 11-15-2021
+*/
 import java.io.*;
 import java.util.ArrayList;
 
